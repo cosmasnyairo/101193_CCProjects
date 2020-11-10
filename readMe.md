@@ -10,13 +10,13 @@ First, You'll need to install:</br>
 For the [Simple Lexical Analyzer](lab1/simple_lexical_analyzer):
 </br>
 
-We first define our phrase at [Phrase](lab1/simple_lexical_analyzer/lexicalanalyzer.cpp) and then run [Cpp File](../lab1/simple_lexical_analyzer/lexicalanalyzer.cpp)
+We first define our phrase at [Phrase](lab1/simple_lexical_analyzer/phrases.txt) and then run [Cpp File](lab1/simple_lexical_analyzer/lexicalanalyzer.cpp)
 
 For an example phrase like: </br> int a,b,c; </br> a=12-(c*b+2);
 
 We'll get an output like below:</br>
 
-![Simple_lexical_analyzer.png](screenshots/simple_lexical_analyzer.png")
+![Simple_lexical_analyzer.png](screenshots/simple_lexical_analyzer.png)
 
 ***
 
@@ -38,4 +38,4 @@ Then we navigate to [Bonus Flex Analyzer](lab1/bonus_flex_analyzer) folder our c
 In the exe file that's generated, we enter our phrase and press enter
 
 We'll get an output like below:</br>
-    ![Bonus_flex_analyzer.png](screenshots/bonus_flex_analyzer.png")
+    ![Bonus_flex_analyzer.png](screenshots/bonus_flex_analyzer.png)
